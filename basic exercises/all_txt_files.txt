@@ -1,0 +1,3 @@
+bos2.txt
+bos.txt
+deneme.txt
